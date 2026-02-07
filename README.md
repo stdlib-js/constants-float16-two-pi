@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-two-pi@esm/index.mjs';
+import FLOAT16_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-two-pi@v0.1.1-esm/index.mjs';
 ```
 
 #### FLOAT16_TWO_PI
@@ -72,7 +72,7 @@ var bool = ( FLOAT16_TWO_PI === 6.28125 );
 <body>
 <script type="module">
 
-import FLOAT16_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-two-pi@esm/index.mjs';
+import FLOAT16_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-two-pi@v0.1.1-esm/index.mjs';
 
 console.log( FLOAT16_TWO_PI );
 // => 6.28125
